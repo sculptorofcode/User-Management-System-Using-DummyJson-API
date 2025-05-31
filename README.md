@@ -106,6 +106,10 @@ graph TD
   </table>
 </div>
 
+## 🎥 Demo Video
+
+[Watch the Demo](public/Record_2025-05-31-01-02-34.mp4)
+
 ## 🛠️ Tech Stack
 
 <div align="center">
